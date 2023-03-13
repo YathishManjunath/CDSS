@@ -26,7 +26,7 @@ ii. +ve and -ve fractions
 9. C program to implement the FIRST in context free grammar.
 
 10. C program to implement Shift Reduce Parser for the given grammar:
-  E → E+E
-  E → E*E
-  E → (E)
-  E → id
+    i.  E → E + E
+    ii. E → E * E
+    iii.E → (E)
+    iv. E → id
