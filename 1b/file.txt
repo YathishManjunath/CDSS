@@ -1,0 +1,6 @@
+int
+char
+iam123
+a_b
+1aaab
+_ab
