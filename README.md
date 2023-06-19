@@ -30,3 +30,15 @@ ii. +ve and -ve fractions
     ii. E → E * E
     iii.E → (E)
     iv. E → id
+
+
+lex executing commands:
+    -> lex filename.l
+    -> cc lex.yy.c -ll
+    -> ./a.out
+
+yacc executing commands:
+    -> lex filename.l
+    -> yacc -d filename.y
+    -> cc lex.yy.c y.tab.c -ll
+    -> ./a.out
